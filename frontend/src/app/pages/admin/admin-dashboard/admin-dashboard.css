@@ -1,0 +1,1 @@
+.layout{display:flex}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}article{background:#fff;border-radius:8px;padding:12px}

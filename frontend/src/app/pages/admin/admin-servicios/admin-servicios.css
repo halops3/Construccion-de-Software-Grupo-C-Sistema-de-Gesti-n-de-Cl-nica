@@ -1,0 +1,1 @@
+.layout{display:flex}main{padding:20px;width:100%}.form{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;background:#fff;padding:10px;border-radius:8px}.list{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px;margin-top:12px}article{background:#fff;padding:10px;border-radius:8px}
